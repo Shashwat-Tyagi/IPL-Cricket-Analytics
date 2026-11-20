@@ -1,0 +1,519 @@
+id,season,city,date,team1,team2,toss_winner,toss_decision,result,dl_applied,winner,win_by_runs,win_by_wickets,player_of_match,venue,umpire1,umpire2
+1,2015,MA,2015-05-14,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,bat,Mumbai Indians won by 95 runs,0,Mumbai Indians,95,0,KD Karthik,Wankhede Stadium,Umpire_3,Umpire_7
+2,2015,Feroz,2015-03-15,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,No Result,0,,0,0,,Wankhede Stadium,Umpire_6,Umpire_14
+3,2015,MA,2015-04-28,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Royal Challengers Bangalore won by 12 runs,0,Royal Challengers Bangalore,12,0,Q de Kock,Rajiv Gandhi Stadium,Umpire_2,Umpire_15
+4,2015,Sawai,2015-05-07,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,No Result,0,,0,0,,Wankhede Stadium,Umpire_8,Umpire_10
+5,2015,Sawai,2015-03-12,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,Delhi Capitals won by 8 wickets,0,Delhi Capitals,0,8,MM Patel,Chinnaswamy Stadium,Umpire_9,Umpire_3
+6,2015,Chinnaswamy,2015-05-11,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,bat,Sunrisers Hyderabad won by 5 wickets,0,Sunrisers Hyderabad,0,5,MM Patel,Chinnaswamy Stadium,Umpire_2,Umpire_11
+7,2015,Sawai,2015-03-21,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,No Result,1,,0,0,,Feroz Shah Kotla,Umpire_15,Umpire_5
+8,2015,Feroz,2015-05-13,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_5,Umpire_17
+9,2015,MA,2015-04-13,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings won by 88 runs,1,Punjab Kings,88,0,JC Buttler,Rajiv Gandhi Stadium,Umpire_18,Umpire_1
+10,2015,Punjab,2015-03-24,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings won by 7 wickets,0,Chennai Super Kings,0,7,SV Samson,Eden Gardens,Umpire_17,Umpire_4
+11,2015,Wankhede,2015-05-11,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals won by 70 runs,1,Delhi Capitals,70,0,P Ojha,Wankhede Stadium,Umpire_4,Umpire_12
+12,2015,MA,2015-03-24,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,No Result,1,,0,0,,MA Chidambaram Stadium,Umpire_18,Umpire_5
+13,2015,Chinnaswamy,2015-05-10,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals won by 4 wickets,1,Rajasthan Royals,0,4,K Rabada,Sawai Mansingh Stadium,Umpire_15,Umpire_17
+14,2015,Chinnaswamy,2015-05-08,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings won by 1 wickets,0,Punjab Kings,0,1,R Ashwin,MA Chidambaram Stadium,Umpire_2,Umpire_8
+15,2015,Chinnaswamy,2015-04-22,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,No Result,1,,0,0,,Chinnaswamy Stadium,Umpire_18,Umpire_5
+16,2015,Feroz,2015-04-14,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Punjab Kings won by 13 runs,1,Punjab Kings,13,0,A Mishra,Punjab Cricket Association Stadium,Umpire_2,Umpire_4
+17,2015,Punjab,2015-03-14,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,Mumbai Indians won by 25 runs,0,Mumbai Indians,25,0,K Rabada,Rajiv Gandhi Stadium,Umpire_15,Umpire_8
+18,2015,Wankhede,2015-03-25,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,No Result,0,,0,0,,Eden Gardens,Umpire_14,Umpire_16
+19,2015,Rajiv,2015-04-10,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Punjab Kings won by 1 wickets,1,Punjab Kings,0,1,Q de Kock,Punjab Cricket Association Stadium,Umpire_5,Umpire_7
+20,2015,Sawai,2015-03-02,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,bat,No Result,1,,0,0,,Eden Gardens,Umpire_2,Umpire_17
+21,2015,MA,2015-05-28,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,No Result,0,,0,0,,Feroz Shah Kotla,Umpire_4,Umpire_19
+22,2015,Sawai,2015-03-09,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Sunrisers Hyderabad won by 5 wickets,1,Sunrisers Hyderabad,0,5,AT Rayudu,Eden Gardens,Umpire_10,Umpire_15
+23,2015,Chinnaswamy,2015-05-09,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Delhi Capitals won by 10 runs,0,Delhi Capitals,10,0,K Rabada,Sawai Mansingh Stadium,Umpire_3,Umpire_8
+24,2015,Rajiv,2015-05-26,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_4,Umpire_5
+25,2015,Sawai,2015-03-22,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians won by 10 wickets,0,Mumbai Indians,0,10,AT Rayudu,Punjab Cricket Association Stadium,Umpire_9,Umpire_2
+26,2015,Eden,2015-05-09,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings won by 43 runs,0,Chennai Super Kings,43,0,P Ojha,Punjab Cricket Association Stadium,Umpire_18,Umpire_14
+27,2015,Wankhede,2015-04-19,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,No Result,0,,0,0,,Feroz Shah Kotla,Umpire_5,Umpire_2
+28,2015,Sawai,2015-05-28,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Sunrisers Hyderabad won by 86 runs,1,Sunrisers Hyderabad,86,0,KD Karthik,Eden Gardens,Umpire_8,Umpire_6
+29,2015,Sawai,2015-04-26,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_6,Umpire_4
+30,2015,Rajiv,2015-03-08,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals won by 59 runs,0,Delhi Capitals,59,0,YK Pathan,Chinnaswamy Stadium,Umpire_13,Umpire_11
+31,2015,Wankhede,2015-03-09,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals won by 9 wickets,0,Delhi Capitals,0,9,V Sehwag,Rajiv Gandhi Stadium,Umpire_2,Umpire_4
+32,2015,MA,2015-04-19,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_2,Umpire_14
+33,2015,Sawai,2015-05-28,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad won by 86 runs,0,Sunrisers Hyderabad,86,0,V Sehwag,Rajiv Gandhi Stadium,Umpire_17,Umpire_10
+34,2015,Eden,2015-03-14,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,No Result,1,,0,0,,Eden Gardens,Umpire_20,Umpire_19
+35,2015,Sawai,2015-04-15,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Kolkata Knight Riders won by 56 runs,1,Kolkata Knight Riders,56,0,R Ashwin,Chinnaswamy Stadium,Umpire_17,Umpire_16
+36,2015,Sawai,2015-03-27,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_8,Umpire_7
+37,2015,Chinnaswamy,2015-05-23,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,bat,Mumbai Indians won by 59 runs,1,Mumbai Indians,59,0,JM Bairstow,Punjab Cricket Association Stadium,Umpire_13,Umpire_8
+38,2015,Punjab,2015-03-18,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Rajasthan Royals won by 23 runs,0,Rajasthan Royals,23,0,YS Chahal,MA Chidambaram Stadium,Umpire_15,Umpire_5
+39,2015,Feroz,2015-05-15,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,No Result,0,,0,0,,Punjab Cricket Association Stadium,Umpire_15,Umpire_9
+40,2015,Chinnaswamy,2015-04-15,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_8,Umpire_9
+41,2015,Eden,2015-05-07,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals won by 50 runs,0,Rajasthan Royals,50,0,YS Chahal,Feroz Shah Kotla,Umpire_14,Umpire_11
+42,2015,Wankhede,2015-05-13,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Kolkata Knight Riders won by 10 wickets,1,Kolkata Knight Riders,0,10,YS Chahal,Wankhede Stadium,Umpire_12,Umpire_10
+43,2015,Punjab,2015-03-13,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Punjab Kings won by 35 runs,0,Punjab Kings,35,0,JC Buttler,Feroz Shah Kotla,Umpire_6,Umpire_15
+44,2015,Wankhede,2015-03-21,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,No Result,1,,0,0,,Eden Gardens,Umpire_15,Umpire_6
+45,2015,Feroz,2015-04-25,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians won by 6 wickets,1,Mumbai Indians,0,6,V Sehwag,Rajiv Gandhi Stadium,Umpire_3,Umpire_16
+46,2015,Wankhede,2015-03-08,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Mumbai Indians won by 100 runs,0,Mumbai Indians,100,0,P Kumar,Wankhede Stadium,Umpire_20,Umpire_5
+47,2015,Chinnaswamy,2015-04-23,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_6,Umpire_20
+48,2015,Feroz,2015-04-23,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Chennai Super Kings won by 40 runs,0,Chennai Super Kings,40,0,Harbhajan Singh,MA Chidambaram Stadium,Umpire_19,Umpire_8
+49,2015,Wankhede,2015-04-18,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,No Result,1,,0,0,,Sawai Mansingh Stadium,Umpire_3,Umpire_17
+50,2015,Punjab,2015-05-05,Rajasthan Royals,Mumbai Indians,Mumbai Indians,field,Rajasthan Royals won by 6 wickets,1,Rajasthan Royals,0,6,MM Patel,Eden Gardens,Umpire_17,Umpire_9
+51,2015,Punjab,2015-03-25,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders won by 12 runs,1,Kolkata Knight Riders,12,0,SS Tiwary,Feroz Shah Kotla,Umpire_11,Umpire_1
+52,2015,Sawai,2015-04-20,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals won by 46 runs,0,Delhi Capitals,46,0,HH Pandya,Wankhede Stadium,Umpire_17,Umpire_7
+53,2015,Chinnaswamy,2015-05-16,Chennai Super Kings,Punjab Kings,Punjab Kings,field,No Result,1,,0,0,,Punjab Cricket Association Stadium,Umpire_1,Umpire_3
+54,2015,Sawai,2015-04-24,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings won by 8 wickets,0,Chennai Super Kings,0,8,DJ Bravo,Sawai Mansingh Stadium,Umpire_15,Umpire_9
+55,2015,Chinnaswamy,2015-04-04,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_7,Umpire_16
+56,2015,Eden,2015-04-01,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad won by 4 wickets,0,Sunrisers Hyderabad,0,4,SE Marsh,Rajiv Gandhi Stadium,Umpire_2,Umpire_2
+57,2016,Punjab,2016-04-15,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad won by 74 runs,0,Sunrisers Hyderabad,74,0,AM Nayar,Eden Gardens,Umpire_2,Umpire_9
+58,2016,Wankhede,2016-03-05,Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians won by 74 runs,0,Mumbai Indians,74,0,MM Patel,MA Chidambaram Stadium,Umpire_8,Umpire_4
+59,2016,Feroz,2016-04-19,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad won by 5 wickets,0,Sunrisers Hyderabad,0,5,R Ashwin,MA Chidambaram Stadium,Umpire_7,Umpire_7
+60,2016,Eden,2016-03-14,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,Sunrisers Hyderabad won by 71 runs,1,Sunrisers Hyderabad,71,0,DA Warner,Punjab Cricket Association Stadium,Umpire_10,Umpire_2
+61,2016,Chinnaswamy,2016-04-04,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders won by 34 runs,0,Kolkata Knight Riders,34,0,MM Patel,Eden Gardens,Umpire_9,Umpire_5
+62,2016,Rajiv,2016-04-04,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,No Result,1,,0,0,,Rajiv Gandhi Stadium,Umpire_13,Umpire_9
+63,2016,Wankhede,2016-03-08,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Kolkata Knight Riders won by 10 wickets,0,Kolkata Knight Riders,0,10,HH Pandya,Rajiv Gandhi Stadium,Umpire_19,Umpire_2
+64,2016,Punjab,2016-04-14,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Royal Challengers Bangalore won by 8 wickets,0,Royal Challengers Bangalore,0,8,MS Dhoni,Sawai Mansingh Stadium,Umpire_4,Umpire_6
+65,2016,Feroz,2016-05-02,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,No Result,1,,0,0,,MA Chidambaram Stadium,Umpire_11,Umpire_9
+66,2016,Punjab,2016-04-02,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_20,Umpire_16
+67,2016,Punjab,2016-03-01,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Delhi Capitals won by 37 runs,0,Delhi Capitals,37,0,JJ Roy,Eden Gardens,Umpire_10,Umpire_18
+68,2016,Eden,2016-04-23,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Mumbai Indians won by 60 runs,0,Mumbai Indians,60,0,SR Watson,Rajiv Gandhi Stadium,Umpire_14,Umpire_16
+69,2016,Eden,2016-03-09,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings won by 77 runs,1,Chennai Super Kings,77,0,B Kumar,Sawai Mansingh Stadium,Umpire_17,Umpire_9
+70,2016,Sawai,2016-04-18,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Mumbai Indians won by 9 wickets,1,Mumbai Indians,0,9,JJ Bumrah,Punjab Cricket Association Stadium,Umpire_11,Umpire_7
+71,2016,Punjab,2016-05-26,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad won by 41 runs,1,Sunrisers Hyderabad,41,0,MM Sharma,Feroz Shah Kotla,Umpire_5,Umpire_16
+72,2016,Wankhede,2016-05-05,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings won by 68 runs,1,Chennai Super Kings,68,0,N Pooran,Eden Gardens,Umpire_3,Umpire_16
+73,2016,Punjab,2016-05-02,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore won by 6 wickets,0,Royal Challengers Bangalore,0,6,MM Patel,Chinnaswamy Stadium,Umpire_10,Umpire_8
+74,2016,Wankhede,2016-03-11,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,Kolkata Knight Riders won by 89 runs,0,Kolkata Knight Riders,89,0,M Vijay,Rajiv Gandhi Stadium,Umpire_12,Umpire_12
+75,2016,Eden,2016-03-06,Delhi Capitals,Chennai Super Kings,Delhi Capitals,field,No Result,0,,0,0,,Feroz Shah Kotla,Umpire_20,Umpire_8
+76,2016,Wankhede,2016-04-10,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad won by 8 wickets,0,Sunrisers Hyderabad,0,8,HH Pandya,MA Chidambaram Stadium,Umpire_15,Umpire_12
+77,2016,Punjab,2016-03-08,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals won by 4 wickets,1,Rajasthan Royals,0,4,Q de Kock,Sawai Mansingh Stadium,Umpire_19,Umpire_10
+78,2016,Punjab,2016-04-25,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Sunrisers Hyderabad won by 78 runs,0,Sunrisers Hyderabad,78,0,MM Sharma,Sawai Mansingh Stadium,Umpire_8,Umpire_7
+79,2016,Wankhede,2016-04-26,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,bat,No Result,1,,0,0,,Wankhede Stadium,Umpire_19,Umpire_12
+80,2016,Feroz,2016-03-07,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_17,Umpire_17
+81,2016,Punjab,2016-03-05,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Delhi Capitals won by 6 wickets,0,Delhi Capitals,0,6,SR Watson,Feroz Shah Kotla,Umpire_18,Umpire_12
+82,2016,Rajiv,2016-05-13,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals won by 59 runs,0,Delhi Capitals,59,0,SE Marsh,MA Chidambaram Stadium,Umpire_8,Umpire_16
+83,2016,MA,2016-05-27,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,No Result,1,,0,0,,Rajiv Gandhi Stadium,Umpire_14,Umpire_4
+84,2016,Eden,2016-04-15,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians won by 13 runs,0,Mumbai Indians,13,0,DJ Bravo,Feroz Shah Kotla,Umpire_19,Umpire_5
+85,2016,Feroz,2016-04-02,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_15,Umpire_15
+86,2016,Sawai,2016-05-21,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,No Result,0,,0,0,,Wankhede Stadium,Umpire_13,Umpire_9
+87,2016,Chinnaswamy,2016-05-21,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,No Result,0,,0,0,,Wankhede Stadium,Umpire_11,Umpire_8
+88,2016,Chinnaswamy,2016-05-07,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_5,Umpire_20
+89,2016,Rajiv,2016-03-04,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,bat,No Result,0,,0,0,,Eden Gardens,Umpire_1,Umpire_12
+90,2016,Feroz,2016-05-04,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Kolkata Knight Riders won by 1 wickets,0,Kolkata Knight Riders,0,1,CH Gayle,Punjab Cricket Association Stadium,Umpire_15,Umpire_12
+91,2016,Rajiv,2016-04-21,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,No Result,0,,0,0,,Wankhede Stadium,Umpire_16,Umpire_13
+92,2016,Punjab,2016-03-03,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,No Result,0,,0,0,,Eden Gardens,Umpire_3,Umpire_5
+93,2016,Rajiv,2016-04-17,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,No Result,1,,0,0,,MA Chidambaram Stadium,Umpire_4,Umpire_18
+94,2016,Feroz,2016-05-04,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,Punjab Kings won by 8 wickets,0,Punjab Kings,0,8,DA Miller,Feroz Shah Kotla,Umpire_11,Umpire_9
+95,2016,MA,2016-05-24,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,Rajasthan Royals won by 12 runs,0,Rajasthan Royals,12,0,JC Buttler,Eden Gardens,Umpire_18,Umpire_2
+96,2016,Rajiv,2016-04-04,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Punjab Kings won by 1 wickets,0,Punjab Kings,0,1,AM Nayar,Eden Gardens,Umpire_16,Umpire_8
+97,2016,Wankhede,2016-05-22,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore won by 55 runs,0,Royal Challengers Bangalore,55,0,DJ Bravo,Wankhede Stadium,Umpire_6,Umpire_9
+98,2016,Feroz,2016-03-05,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad won by 73 runs,0,Sunrisers Hyderabad,73,0,A Mishra,MA Chidambaram Stadium,Umpire_17,Umpire_7
+99,2016,Sawai,2016-05-20,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Delhi Capitals won by 5 wickets,0,Delhi Capitals,0,5,RA Jadeja,Wankhede Stadium,Umpire_5,Umpire_6
+100,2016,Punjab,2016-04-09,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals won by 8 wickets,0,Rajasthan Royals,0,8,S Narine,MA Chidambaram Stadium,Umpire_12,Umpire_14
+101,2016,Wankhede,2016-03-07,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings won by 51 runs,0,Chennai Super Kings,51,0,S Narine,Chinnaswamy Stadium,Umpire_5,Umpire_9
+102,2016,Feroz,2016-05-23,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,Royal Challengers Bangalore won by 3 wickets,0,Royal Challengers Bangalore,0,3,CH Gayle,Sawai Mansingh Stadium,Umpire_3,Umpire_13
+103,2016,Feroz,2016-05-21,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians won by 10 wickets,1,Mumbai Indians,0,10,JC Buttler,Rajiv Gandhi Stadium,Umpire_4,Umpire_13
+104,2016,Sawai,2016-03-14,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_14,Umpire_19
+105,2016,Eden,2016-03-17,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad won by 4 wickets,0,Sunrisers Hyderabad,0,4,V Sehwag,Chinnaswamy Stadium,Umpire_12,Umpire_12
+106,2016,Eden,2016-05-03,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings won by 23 runs,0,Chennai Super Kings,23,0,S Narine,Punjab Cricket Association Stadium,Umpire_15,Umpire_19
+107,2016,Punjab,2016-05-10,Punjab Kings,Rajasthan Royals,Rajasthan Royals,field,Punjab Kings won by 2 wickets,0,Punjab Kings,0,2,JJ Bumrah,Wankhede Stadium,Umpire_12,Umpire_17
+108,2016,MA,2016-05-28,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings won by 48 runs,0,Chennai Super Kings,48,0,AM Nayar,Feroz Shah Kotla,Umpire_15,Umpire_19
+109,2016,Punjab,2016-05-05,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,No Result,0,,0,0,,Punjab Cricket Association Stadium,Umpire_4,Umpire_11
+110,2016,Eden,2016-04-12,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings won by 8 wickets,0,Chennai Super Kings,0,8,Mohammed Shami,Feroz Shah Kotla,Umpire_14,Umpire_11
+111,2016,Feroz,2016-04-09,Mumbai Indians,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals won by 72 runs,0,Delhi Capitals,72,0,P Chawla,Sawai Mansingh Stadium,Umpire_3,Umpire_19
+112,2016,Feroz,2016-05-26,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Royal Challengers Bangalore won by 40 runs,0,Royal Challengers Bangalore,40,0,DJ Bravo,Eden Gardens,Umpire_17,Umpire_3
+113,2016,Sawai,2016-04-07,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad won by 3 wickets,0,Sunrisers Hyderabad,0,3,AT Rayudu,Eden Gardens,Umpire_5,Umpire_3
+114,2016,Sawai,2016-05-05,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,No Result,1,,0,0,,Eden Gardens,Umpire_6,Umpire_6
+115,2016,Rajiv,2016-05-26,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals won by 4 wickets,1,Rajasthan Royals,0,4,JJ Roy,Chinnaswamy Stadium,Umpire_18,Umpire_8
+116,2016,Rajiv,2016-04-17,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals won by 8 wickets,1,Delhi Capitals,0,8,P Ojha,Eden Gardens,Umpire_7,Umpire_20
+117,2017,MA,2017-05-28,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_3,Umpire_6
+118,2017,Wankhede,2017-04-02,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,Sunrisers Hyderabad won by 58 runs,1,Sunrisers Hyderabad,58,0,YK Pathan,Sawai Mansingh Stadium,Umpire_8,Umpire_13
+119,2017,Sawai,2017-03-05,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,bat,Royal Challengers Bangalore won by 92 runs,0,Royal Challengers Bangalore,92,0,P Kumar,Rajiv Gandhi Stadium,Umpire_16,Umpire_5
+120,2017,Feroz,2017-03-25,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,Punjab Kings won by 4 wickets,0,Punjab Kings,0,4,RR Pant,Chinnaswamy Stadium,Umpire_10,Umpire_4
+121,2017,Wankhede,2017-05-17,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,Mumbai Indians won by 64 runs,0,Mumbai Indians,64,0,S Narine,Eden Gardens,Umpire_10,Umpire_14
+122,2017,Feroz,2017-03-22,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_3,Umpire_17
+123,2017,Feroz,2017-04-09,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_3,Umpire_12
+124,2017,Sawai,2017-05-06,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders won by 46 runs,1,Kolkata Knight Riders,46,0,K Rabada,Punjab Cricket Association Stadium,Umpire_6,Umpire_5
+125,2017,Wankhede,2017-04-10,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals won by 6 runs,1,Rajasthan Royals,6,0,SS Iyer,Punjab Cricket Association Stadium,Umpire_9,Umpire_2
+126,2017,Sawai,2017-04-04,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,No Result,0,,0,0,,Feroz Shah Kotla,Umpire_13,Umpire_15
+127,2017,Punjab,2017-04-26,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,field,No Result,0,,0,0,,MA Chidambaram Stadium,Umpire_14,Umpire_3
+128,2017,Rajiv,2017-04-15,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad won by 11 runs,1,Sunrisers Hyderabad,11,0,G Gambhir,Eden Gardens,Umpire_15,Umpire_12
+129,2017,Feroz,2017-04-17,Punjab Kings,Mumbai Indians,Mumbai Indians,field,Mumbai Indians won by 10 runs,0,Mumbai Indians,10,0,A Mishra,Wankhede Stadium,Umpire_5,Umpire_20
+130,2017,Wankhede,2017-05-05,Punjab Kings,Mumbai Indians,Punjab Kings,bat,Punjab Kings won by 6 wickets,1,Punjab Kings,0,6,Q de Kock,Sawai Mansingh Stadium,Umpire_12,Umpire_15
+131,2017,MA,2017-03-24,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Sunrisers Hyderabad won by 5 wickets,0,Sunrisers Hyderabad,0,5,DJ Bravo,Punjab Cricket Association Stadium,Umpire_17,Umpire_13
+132,2017,MA,2017-03-28,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings won by 8 wickets,0,Chennai Super Kings,0,8,SS Iyer,Punjab Cricket Association Stadium,Umpire_6,Umpire_15
+133,2017,MA,2017-05-18,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_6,Umpire_6
+134,2017,Wankhede,2017-04-18,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Rajasthan Royals won by 31 runs,0,Rajasthan Royals,31,0,SL Malinga,Punjab Cricket Association Stadium,Umpire_18,Umpire_5
+135,2017,Punjab,2017-05-14,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,No Result,1,,0,0,,MA Chidambaram Stadium,Umpire_5,Umpire_11
+136,2017,Feroz,2017-05-28,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Chennai Super Kings won by 99 runs,0,Chennai Super Kings,99,0,CH Gayle,MA Chidambaram Stadium,Umpire_17,Umpire_5
+137,2017,Chinnaswamy,2017-04-17,Sunrisers Hyderabad,Chennai Super Kings,Sunrisers Hyderabad,field,No Result,0,,0,0,,MA Chidambaram Stadium,Umpire_9,Umpire_7
+138,2017,Eden,2017-05-19,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,No Result,0,,0,0,,Eden Gardens,Umpire_20,Umpire_20
+139,2017,Rajiv,2017-05-07,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Rajasthan Royals won by 83 runs,1,Rajasthan Royals,83,0,P Ojha,Wankhede Stadium,Umpire_16,Umpire_18
+140,2017,MA,2017-05-02,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Sunrisers Hyderabad won by 5 wickets,0,Sunrisers Hyderabad,0,5,N Pooran,Punjab Cricket Association Stadium,Umpire_14,Umpire_16
+141,2017,Eden,2017-04-17,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings won by 6 wickets,0,Chennai Super Kings,0,6,DA Miller,Sawai Mansingh Stadium,Umpire_8,Umpire_15
+142,2017,Feroz,2017-05-14,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings won by 7 runs,0,Chennai Super Kings,7,0,AM Nayar,Eden Gardens,Umpire_11,Umpire_19
+143,2017,Punjab,2017-04-10,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,No Result,1,,0,0,,Wankhede Stadium,Umpire_3,Umpire_13
+144,2017,Punjab,2017-04-18,Punjab Kings,Chennai Super Kings,Punjab Kings,field,Punjab Kings won by 37 runs,0,Punjab Kings,37,0,SL Malinga,MA Chidambaram Stadium,Umpire_14,Umpire_5
+145,2017,Chinnaswamy,2017-04-18,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals won by 52 runs,0,Rajasthan Royals,52,0,AB de Villiers,MA Chidambaram Stadium,Umpire_13,Umpire_17
+146,2017,Sawai,2017-05-12,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Punjab Kings won by 51 runs,0,Punjab Kings,51,0,SE Marsh,Chinnaswamy Stadium,Umpire_20,Umpire_17
+147,2017,Punjab,2017-05-15,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Delhi Capitals won by 92 runs,0,Delhi Capitals,92,0,V Sehwag,Eden Gardens,Umpire_11,Umpire_20
+148,2017,Sawai,2017-05-27,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,No Result,1,,0,0,,Rajiv Gandhi Stadium,Umpire_16,Umpire_1
+149,2017,Rajiv,2017-05-28,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,No Result,0,,0,0,,Punjab Cricket Association Stadium,Umpire_9,Umpire_19
+150,2017,Chinnaswamy,2017-03-19,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders won by 3 wickets,0,Kolkata Knight Riders,0,3,P Chawla,Chinnaswamy Stadium,Umpire_1,Umpire_15
+151,2017,Chinnaswamy,2017-04-17,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,No Result,1,,0,0,,Wankhede Stadium,Umpire_5,Umpire_17
+152,2017,Feroz,2017-04-06,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,No Result,1,,0,0,,Sawai Mansingh Stadium,Umpire_18,Umpire_12
+153,2017,Chinnaswamy,2017-04-25,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,Sunrisers Hyderabad won by 9 wickets,0,Sunrisers Hyderabad,0,9,M Vijay,Chinnaswamy Stadium,Umpire_16,Umpire_11
+154,2017,Eden,2017-04-02,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings won by 7 wickets,0,Punjab Kings,0,7,YK Pathan,MA Chidambaram Stadium,Umpire_12,Umpire_15
+155,2017,Rajiv,2017-03-04,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Sunrisers Hyderabad won by 9 wickets,0,Sunrisers Hyderabad,0,9,YS Chahal,Chinnaswamy Stadium,Umpire_2,Umpire_17
+156,2017,Punjab,2017-03-22,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,Kolkata Knight Riders won by 6 wickets,0,Kolkata Knight Riders,0,6,KC Sangakkara,Wankhede Stadium,Umpire_18,Umpire_6
+157,2017,Chinnaswamy,2017-04-11,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,No Result,0,,0,0,,Wankhede Stadium,Umpire_3,Umpire_19
+158,2017,Punjab,2017-03-24,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Sunrisers Hyderabad won by 5 runs,0,Sunrisers Hyderabad,5,0,DA Miller,Wankhede Stadium,Umpire_1,Umpire_10
+159,2017,Punjab,2017-03-28,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,No Result,1,,0,0,,Rajiv Gandhi Stadium,Umpire_7,Umpire_4
+160,2017,Eden,2017-03-24,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_19,Umpire_7
+161,2017,Sawai,2017-03-13,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,field,No Result,0,,0,0,,Eden Gardens,Umpire_5,Umpire_16
+162,2017,Rajiv,2017-04-10,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings won by 58 runs,0,Chennai Super Kings,58,0,I Sharma,Rajiv Gandhi Stadium,Umpire_12,Umpire_8
+163,2017,Rajiv,2017-05-04,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals won by 52 runs,0,Rajasthan Royals,52,0,P Chawla,Sawai Mansingh Stadium,Umpire_20,Umpire_8
+164,2017,Punjab,2017-05-26,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings won by 7 wickets,0,Chennai Super Kings,0,7,YS Chahal,Chinnaswamy Stadium,Umpire_20,Umpire_3
+165,2017,MA,2017-03-27,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,No Result,0,,0,0,,Eden Gardens,Umpire_6,Umpire_11
+166,2017,Eden,2017-05-14,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings won by 1 wickets,1,Punjab Kings,0,1,N Pooran,Wankhede Stadium,Umpire_18,Umpire_15
+167,2017,MA,2017-03-14,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Rajasthan Royals won by 96 runs,0,Rajasthan Royals,96,0,AT Rayudu,MA Chidambaram Stadium,Umpire_18,Umpire_2
+168,2017,Feroz,2017-04-13,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders won by 99 runs,1,Kolkata Knight Riders,99,0,CH Gayle,Feroz Shah Kotla,Umpire_13,Umpire_3
+169,2017,Chinnaswamy,2017-03-25,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Royal Challengers Bangalore won by 9 wickets,0,Royal Challengers Bangalore,0,9,CH Gayle,Rajiv Gandhi Stadium,Umpire_15,Umpire_18
+170,2017,Rajiv,2017-03-24,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals won by 6 wickets,0,Delhi Capitals,0,6,RR Pant,Wankhede Stadium,Umpire_14,Umpire_20
+171,2017,Wankhede,2017-03-24,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians won by 58 runs,0,Mumbai Indians,58,0,S Narine,Feroz Shah Kotla,Umpire_15,Umpire_8
+172,2017,Rajiv,2017-03-27,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_8,Umpire_10
+173,2017,Eden,2017-05-22,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Rajasthan Royals won by 1 wickets,1,Rajasthan Royals,0,1,DJ Bravo,Punjab Cricket Association Stadium,Umpire_2,Umpire_12
+174,2018,Punjab,2018-03-28,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals won by 7 wickets,0,Rajasthan Royals,0,7,KL Rahul,Rajiv Gandhi Stadium,Umpire_5,Umpire_15
+175,2018,Eden,2018-04-08,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_11,Umpire_3
+176,2018,Chinnaswamy,2018-03-09,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,No Result,1,,0,0,,Wankhede Stadium,Umpire_3,Umpire_7
+177,2018,MA,2018-05-25,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Punjab Kings won by 28 runs,1,Punjab Kings,28,0,SS Iyer,Chinnaswamy Stadium,Umpire_20,Umpire_7
+178,2018,Sawai,2018-04-09,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings won by 9 wickets,0,Chennai Super Kings,0,9,P Kumar,Punjab Cricket Association Stadium,Umpire_15,Umpire_4
+179,2018,Chinnaswamy,2018-05-05,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals won by 7 wickets,0,Delhi Capitals,0,7,SK Raina,Rajiv Gandhi Stadium,Umpire_18,Umpire_19
+180,2018,Chinnaswamy,2018-04-18,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,Royal Challengers Bangalore won by 49 runs,0,Royal Challengers Bangalore,49,0,Harbhajan Singh,Rajiv Gandhi Stadium,Umpire_16,Umpire_16
+181,2018,Wankhede,2018-05-02,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Punjab Kings won by 3 wickets,0,Punjab Kings,0,3,K Rabada,Wankhede Stadium,Umpire_1,Umpire_14
+182,2018,Eden,2018-03-07,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,No Result,1,,0,0,,Sawai Mansingh Stadium,Umpire_2,Umpire_20
+183,2018,Rajiv,2018-05-10,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Punjab Kings won by 1 wickets,0,Punjab Kings,0,1,RG Sharma,Feroz Shah Kotla,Umpire_6,Umpire_4
+184,2018,Feroz,2018-03-12,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,Chennai Super Kings won by 6 wickets,1,Chennai Super Kings,0,6,SS Tiwary,Punjab Cricket Association Stadium,Umpire_19,Umpire_8
+185,2018,Punjab,2018-03-21,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders won by 7 wickets,0,Kolkata Knight Riders,0,7,Q de Kock,Eden Gardens,Umpire_3,Umpire_16
+186,2018,Wankhede,2018-03-07,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,No Result,1,,0,0,,Rajiv Gandhi Stadium,Umpire_2,Umpire_3
+187,2018,Eden,2018-05-27,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,Punjab Kings won by 27 runs,1,Punjab Kings,27,0,R Ashwin,MA Chidambaram Stadium,Umpire_10,Umpire_6
+188,2018,MA,2018-05-24,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad won by 89 runs,0,Sunrisers Hyderabad,89,0,RA Jadeja,Wankhede Stadium,Umpire_4,Umpire_14
+189,2018,Feroz,2018-04-01,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,No Result,0,,0,0,,Punjab Cricket Association Stadium,Umpire_16,Umpire_8
+190,2018,Rajiv,2018-03-23,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Rajasthan Royals won by 2 wickets,0,Rajasthan Royals,0,2,P Ojha,MA Chidambaram Stadium,Umpire_9,Umpire_5
+191,2018,Wankhede,2018-04-15,Delhi Capitals,Rajasthan Royals,Delhi Capitals,field,Rajasthan Royals won by 2 wickets,0,Rajasthan Royals,0,2,MS Dhoni,Rajiv Gandhi Stadium,Umpire_4,Umpire_5
+192,2018,Feroz,2018-03-01,Chennai Super Kings,Punjab Kings,Punjab Kings,field,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_18,Umpire_3
+193,2018,MA,2018-05-18,Rajasthan Royals,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals won by 7 wickets,0,Delhi Capitals,0,7,P Ojha,Eden Gardens,Umpire_13,Umpire_6
+194,2018,Feroz,2018-04-14,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Punjab Kings won by 9 runs,0,Punjab Kings,9,0,SV Samson,Punjab Cricket Association Stadium,Umpire_3,Umpire_12
+195,2018,Wankhede,2018-04-11,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings won by 18 runs,1,Chennai Super Kings,18,0,M Vijay,Sawai Mansingh Stadium,Umpire_15,Umpire_11
+196,2018,Eden,2018-04-11,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Punjab Kings won by 62 runs,0,Punjab Kings,62,0,G Gambhir,Punjab Cricket Association Stadium,Umpire_19,Umpire_8
+197,2018,Eden,2018-05-25,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders won by 73 runs,0,Kolkata Knight Riders,73,0,SS Iyer,Punjab Cricket Association Stadium,Umpire_7,Umpire_15
+198,2018,Punjab,2018-03-21,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_9,Umpire_5
+199,2018,Feroz,2018-05-02,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Punjab Kings won by 10 wickets,0,Punjab Kings,0,10,DA Miller,MA Chidambaram Stadium,Umpire_4,Umpire_8
+200,2018,MA,2018-04-08,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings won by 2 wickets,0,Chennai Super Kings,0,2,V Kohli,Punjab Cricket Association Stadium,Umpire_12,Umpire_13
+201,2018,Feroz,2018-03-04,Punjab Kings,Delhi Capitals,Punjab Kings,field,Punjab Kings won by 2 wickets,0,Punjab Kings,0,2,AM Nayar,Sawai Mansingh Stadium,Umpire_10,Umpire_11
+202,2018,Punjab,2018-04-03,Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals won by 2 wickets,0,Delhi Capitals,0,2,JJ Roy,Wankhede Stadium,Umpire_4,Umpire_1
+203,2018,Chinnaswamy,2018-05-06,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_18,Umpire_14
+204,2018,Chinnaswamy,2018-04-19,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,Punjab Kings won by 7 wickets,1,Punjab Kings,0,7,RG Sharma,Feroz Shah Kotla,Umpire_1,Umpire_7
+205,2018,Eden,2018-04-11,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,No Result,0,,0,0,,Punjab Cricket Association Stadium,Umpire_4,Umpire_9
+206,2018,Feroz,2018-05-04,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_15,Umpire_20
+207,2018,Eden,2018-04-04,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_4,Umpire_6
+208,2018,Feroz,2018-03-16,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,Punjab Kings won by 74 runs,0,Punjab Kings,74,0,Q de Kock,Eden Gardens,Umpire_16,Umpire_10
+209,2018,Wankhede,2018-04-01,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,No Result,1,,0,0,,Eden Gardens,Umpire_7,Umpire_13
+210,2018,Punjab,2018-04-06,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,No Result,0,,0,0,,Wankhede Stadium,Umpire_8,Umpire_10
+211,2018,Punjab,2018-05-17,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,Mumbai Indians won by 10 wickets,0,Mumbai Indians,0,10,MM Sharma,MA Chidambaram Stadium,Umpire_9,Umpire_18
+212,2018,Chinnaswamy,2018-04-04,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_2,Umpire_15
+213,2018,Sawai,2018-05-20,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Sunrisers Hyderabad won by 27 runs,1,Sunrisers Hyderabad,27,0,MM Sharma,Eden Gardens,Umpire_20,Umpire_5
+214,2018,Sawai,2018-05-09,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_10,Umpire_10
+215,2018,Eden,2018-05-28,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals won by 36 runs,0,Delhi Capitals,36,0,P Kumar,Chinnaswamy Stadium,Umpire_5,Umpire_11
+216,2018,Punjab,2018-03-21,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,field,Kolkata Knight Riders won by 7 wickets,0,Kolkata Knight Riders,0,7,Q de Kock,Feroz Shah Kotla,Umpire_17,Umpire_9
+217,2018,Wankhede,2018-05-03,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,No Result,1,,0,0,,Sawai Mansingh Stadium,Umpire_3,Umpire_18
+218,2018,Sawai,2018-05-19,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings won by 6 wickets,0,Chennai Super Kings,0,6,AM Nayar,Punjab Cricket Association Stadium,Umpire_11,Umpire_2
+219,2018,Wankhede,2018-04-07,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Mumbai Indians won by 57 runs,0,Mumbai Indians,57,0,N Pooran,Rajiv Gandhi Stadium,Umpire_6,Umpire_9
+220,2018,Feroz,2018-05-10,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Chennai Super Kings won by 3 wickets,0,Chennai Super Kings,0,3,AB de Villiers,Feroz Shah Kotla,Umpire_3,Umpire_4
+221,2018,Punjab,2018-03-01,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Mumbai Indians won by 67 runs,0,Mumbai Indians,67,0,P Chawla,MA Chidambaram Stadium,Umpire_14,Umpire_5
+222,2018,Sawai,2018-04-05,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings won by 14 runs,1,Punjab Kings,14,0,G Gambhir,Eden Gardens,Umpire_5,Umpire_3
+223,2018,Eden,2018-04-20,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad won by 81 runs,1,Sunrisers Hyderabad,81,0,MM Sharma,Chinnaswamy Stadium,Umpire_3,Umpire_4
+224,2018,Chinnaswamy,2018-04-21,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,field,Delhi Capitals won by 6 wickets,0,Delhi Capitals,0,6,CH Gayle,Chinnaswamy Stadium,Umpire_18,Umpire_20
+225,2018,Rajiv,2018-05-02,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Sunrisers Hyderabad won by 96 runs,0,Sunrisers Hyderabad,96,0,DA Miller,Punjab Cricket Association Stadium,Umpire_13,Umpire_4
+226,2018,Feroz,2018-04-18,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Punjab Kings won by 3 wickets,0,Punjab Kings,0,3,Q de Kock,Punjab Cricket Association Stadium,Umpire_3,Umpire_1
+227,2018,Rajiv,2018-05-23,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings won by 51 runs,1,Chennai Super Kings,51,0,B Kumar,Feroz Shah Kotla,Umpire_13,Umpire_3
+228,2018,Sawai,2018-04-19,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore won by 20 runs,0,Royal Challengers Bangalore,20,0,K Rabada,Rajiv Gandhi Stadium,Umpire_14,Umpire_8
+229,2018,Wankhede,2018-04-22,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Mumbai Indians won by 10 wickets,0,Mumbai Indians,0,10,S Narine,MA Chidambaram Stadium,Umpire_1,Umpire_5
+230,2018,Rajiv,2018-03-12,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,field,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_4,Umpire_1
+231,2018,MA,2018-04-23,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,No Result,0,,0,0,,Punjab Cricket Association Stadium,Umpire_15,Umpire_17
+232,2018,MA,2018-05-22,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians won by 33 runs,0,Mumbai Indians,33,0,P Ojha,Chinnaswamy Stadium,Umpire_17,Umpire_1
+233,2019,Wankhede,2019-05-26,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,Chennai Super Kings won by 3 wickets,1,Chennai Super Kings,0,3,KL Rahul,Chinnaswamy Stadium,Umpire_11,Umpire_8
+234,2019,Wankhede,2019-03-08,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,field,Delhi Capitals won by 2 wickets,0,Delhi Capitals,0,2,B Kumar,Feroz Shah Kotla,Umpire_3,Umpire_15
+235,2019,Chinnaswamy,2019-04-19,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,Sunrisers Hyderabad won by 1 wickets,0,Sunrisers Hyderabad,0,1,SE Marsh,Chinnaswamy Stadium,Umpire_15,Umpire_12
+236,2019,Chinnaswamy,2019-05-12,Punjab Kings,Delhi Capitals,Punjab Kings,bat,Punjab Kings won by 53 runs,0,Punjab Kings,53,0,RG Sharma,Sawai Mansingh Stadium,Umpire_1,Umpire_13
+237,2019,Rajiv,2019-03-02,Sunrisers Hyderabad,Mumbai Indians,Sunrisers Hyderabad,bat,Mumbai Indians won by 1 wickets,0,Mumbai Indians,0,1,RR Pant,Feroz Shah Kotla,Umpire_12,Umpire_15
+238,2019,Feroz,2019-03-19,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,bat,No Result,0,,0,0,,Feroz Shah Kotla,Umpire_5,Umpire_8
+239,2019,Sawai,2019-04-15,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_3,Umpire_7
+240,2019,Sawai,2019-04-04,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore won by 58 runs,0,Royal Challengers Bangalore,58,0,N Pooran,Chinnaswamy Stadium,Umpire_15,Umpire_10
+241,2019,Chinnaswamy,2019-04-05,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,Punjab Kings won by 10 wickets,0,Punjab Kings,0,10,SK Raina,Chinnaswamy Stadium,Umpire_12,Umpire_13
+242,2019,Chinnaswamy,2019-03-15,Mumbai Indians,Rajasthan Royals,Rajasthan Royals,field,Mumbai Indians won by 52 runs,0,Mumbai Indians,52,0,JJ Roy,Eden Gardens,Umpire_4,Umpire_1
+243,2019,MA,2019-05-19,Mumbai Indians,Delhi Capitals,Mumbai Indians,bat,Mumbai Indians won by 6 wickets,0,Mumbai Indians,0,6,P Chawla,MA Chidambaram Stadium,Umpire_1,Umpire_3
+244,2019,Punjab,2019-03-06,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders won by 2 wickets,1,Kolkata Knight Riders,0,2,SK Raina,Feroz Shah Kotla,Umpire_16,Umpire_1
+245,2019,Rajiv,2019-04-05,Delhi Capitals,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals won by 24 runs,0,Rajasthan Royals,24,0,SS Tiwary,Chinnaswamy Stadium,Umpire_10,Umpire_16
+246,2019,Feroz,2019-03-21,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals won by 7 wickets,0,Delhi Capitals,0,7,CH Gayle,Wankhede Stadium,Umpire_13,Umpire_12
+247,2019,Sawai,2019-04-09,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,No Result,0,,0,0,,Wankhede Stadium,Umpire_11,Umpire_20
+248,2019,Eden,2019-03-08,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians won by 10 wickets,0,Mumbai Indians,0,10,JP Duminy,Rajiv Gandhi Stadium,Umpire_18,Umpire_2
+249,2019,Sawai,2019-05-23,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Kolkata Knight Riders won by 31 runs,0,Kolkata Knight Riders,31,0,R Ashwin,Wankhede Stadium,Umpire_12,Umpire_19
+250,2019,Rajiv,2019-03-16,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,No Result,0,,0,0,,MA Chidambaram Stadium,Umpire_2,Umpire_8
+251,2019,Eden,2019-04-02,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians won by 17 runs,0,Mumbai Indians,17,0,V Sehwag,Eden Gardens,Umpire_19,Umpire_5
+252,2019,Sawai,2019-04-11,Chennai Super Kings,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals won by 10 wickets,0,Delhi Capitals,0,10,KD Karthik,Eden Gardens,Umpire_14,Umpire_16
+253,2019,Eden,2019-04-10,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,bat,No Result,0,,0,0,,Eden Gardens,Umpire_6,Umpire_1
+254,2019,Sawai,2019-05-08,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,No Result,0,,0,0,,Punjab Cricket Association Stadium,Umpire_5,Umpire_11
+255,2019,Sawai,2019-04-01,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Chennai Super Kings won by 91 runs,0,Chennai Super Kings,91,0,A Mishra,Chinnaswamy Stadium,Umpire_8,Umpire_3
+256,2019,Feroz,2019-03-14,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,bat,Rajasthan Royals won by 8 wickets,1,Rajasthan Royals,0,8,RA Jadeja,Feroz Shah Kotla,Umpire_12,Umpire_18
+257,2019,Rajiv,2019-03-11,Delhi Capitals,Mumbai Indians,Mumbai Indians,bat,Delhi Capitals won by 2 wickets,0,Delhi Capitals,0,2,SK Raina,MA Chidambaram Stadium,Umpire_3,Umpire_11
+258,2019,MA,2019-04-20,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,No Result,1,,0,0,,Wankhede Stadium,Umpire_14,Umpire_6
+259,2019,Rajiv,2019-05-10,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings won by 25 runs,0,Chennai Super Kings,25,0,JM Bairstow,Chinnaswamy Stadium,Umpire_4,Umpire_2
+260,2019,MA,2019-04-27,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals won by 1 wickets,1,Delhi Capitals,0,1,JC Buttler,Chinnaswamy Stadium,Umpire_4,Umpire_1
+261,2019,Punjab,2019-04-22,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings won by 40 runs,0,Chennai Super Kings,40,0,DA Miller,MA Chidambaram Stadium,Umpire_18,Umpire_13
+262,2019,Punjab,2019-04-09,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,Royal Challengers Bangalore won by 1 wickets,0,Royal Challengers Bangalore,0,1,HH Pandya,Rajiv Gandhi Stadium,Umpire_19,Umpire_2
+263,2019,Sawai,2019-05-14,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,No Result,0,,0,0,,Wankhede Stadium,Umpire_13,Umpire_17
+264,2019,Wankhede,2019-05-19,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad won by 2 wickets,0,Sunrisers Hyderabad,0,2,DA Miller,MA Chidambaram Stadium,Umpire_15,Umpire_6
+265,2019,Feroz,2019-03-27,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore won by 2 wickets,0,Royal Challengers Bangalore,0,2,P Chawla,Rajiv Gandhi Stadium,Umpire_11,Umpire_3
+266,2019,Feroz,2019-03-14,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders won by 1 wickets,0,Kolkata Knight Riders,0,1,YS Chahal,Eden Gardens,Umpire_19,Umpire_19
+267,2019,Sawai,2019-04-09,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,No Result,1,,0,0,,Punjab Cricket Association Stadium,Umpire_19,Umpire_20
+268,2019,Feroz,2019-03-13,Punjab Kings,Mumbai Indians,Punjab Kings,field,Mumbai Indians won by 80 runs,0,Mumbai Indians,80,0,S Narine,Chinnaswamy Stadium,Umpire_2,Umpire_16
+269,2019,MA,2019-03-05,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Royal Challengers Bangalore won by 5 wickets,0,Royal Challengers Bangalore,0,5,SL Malinga,Punjab Cricket Association Stadium,Umpire_11,Umpire_9
+270,2019,Punjab,2019-05-28,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,bat,Sunrisers Hyderabad won by 53 runs,0,Sunrisers Hyderabad,53,0,MM Sharma,Wankhede Stadium,Umpire_17,Umpire_6
+271,2019,Wankhede,2019-03-07,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,No Result,0,,0,0,,Wankhede Stadium,Umpire_8,Umpire_2
+272,2019,Feroz,2019-05-04,Punjab Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians won by 8 wickets,0,Mumbai Indians,0,8,B Kumar,Chinnaswamy Stadium,Umpire_12,Umpire_16
+273,2019,MA,2019-04-01,Punjab Kings,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings won by 34 runs,1,Chennai Super Kings,34,0,MM Sharma,Wankhede Stadium,Umpire_6,Umpire_19
+274,2019,Chinnaswamy,2019-04-21,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,No Result,1,,0,0,,Wankhede Stadium,Umpire_1,Umpire_16
+275,2019,Rajiv,2019-04-13,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Royal Challengers Bangalore won by 10 wickets,0,Royal Challengers Bangalore,0,10,M Vijay,Punjab Cricket Association Stadium,Umpire_9,Umpire_7
+276,2019,Rajiv,2019-04-22,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Punjab Kings won by 9 wickets,0,Punjab Kings,0,9,P Kumar,Punjab Cricket Association Stadium,Umpire_3,Umpire_11
+277,2019,Chinnaswamy,2019-03-26,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals won by 4 wickets,1,Rajasthan Royals,0,4,RR Pant,Sawai Mansingh Stadium,Umpire_5,Umpire_1
+278,2019,Chinnaswamy,2019-04-24,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore won by 1 wickets,0,Royal Challengers Bangalore,0,1,R Ashwin,Punjab Cricket Association Stadium,Umpire_12,Umpire_17
+279,2019,Rajiv,2019-05-26,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals won by 61 runs,0,Delhi Capitals,61,0,CH Gayle,Sawai Mansingh Stadium,Umpire_3,Umpire_8
+280,2019,Rajiv,2019-04-28,Rajasthan Royals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings won by 5 wickets,0,Chennai Super Kings,0,5,R Ashwin,Punjab Cricket Association Stadium,Umpire_2,Umpire_19
+281,2019,Feroz,2019-05-10,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,bat,No Result,1,,0,0,,Wankhede Stadium,Umpire_5,Umpire_5
+282,2019,MA,2019-04-11,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Kolkata Knight Riders won by 3 wickets,0,Kolkata Knight Riders,0,3,P Ojha,Sawai Mansingh Stadium,Umpire_2,Umpire_1
+283,2019,Eden,2019-04-26,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,No Result,0,,0,0,,Eden Gardens,Umpire_20,Umpire_14
+284,2019,Chinnaswamy,2019-05-12,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders won by 5 runs,0,Kolkata Knight Riders,5,0,K Rabada,Sawai Mansingh Stadium,Umpire_17,Umpire_7
+285,2019,MA,2019-04-17,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,Mumbai Indians won by 5 wickets,0,Mumbai Indians,0,5,CH Gayle,Eden Gardens,Umpire_3,Umpire_2
+286,2019,Sawai,2019-03-06,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore won by 44 runs,1,Royal Challengers Bangalore,44,0,SL Malinga,Wankhede Stadium,Umpire_8,Umpire_8
+287,2019,Rajiv,2019-05-20,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore won by 1 wickets,0,Royal Challengers Bangalore,0,1,Q de Kock,Wankhede Stadium,Umpire_4,Umpire_1
+288,2019,Rajiv,2019-04-23,Mumbai Indians,Rajasthan Royals,Mumbai Indians,field,Rajasthan Royals won by 2 wickets,0,Rajasthan Royals,0,2,DJ Bravo,Chinnaswamy Stadium,Umpire_1,Umpire_10
+289,2020,MA,2020-04-04,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals won by 66 runs,0,Rajasthan Royals,66,0,RA Jadeja,Punjab Cricket Association Stadium,Umpire_7,Umpire_20
+290,2020,Wankhede,2020-05-16,Kolkata Knight Riders,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals won by 5 wickets,0,Delhi Capitals,0,5,SV Samson,Punjab Cricket Association Stadium,Umpire_11,Umpire_8
+291,2020,Punjab,2020-03-03,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,No Result,0,,0,0,,MA Chidambaram Stadium,Umpire_9,Umpire_8
+292,2020,Rajiv,2020-04-26,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings won by 23 runs,0,Punjab Kings,23,0,SK Raina,Feroz Shah Kotla,Umpire_4,Umpire_4
+293,2020,Rajiv,2020-05-03,Mumbai Indians,Punjab Kings,Mumbai Indians,bat,Punjab Kings won by 8 wickets,0,Punjab Kings,0,8,AD Russell,Sawai Mansingh Stadium,Umpire_6,Umpire_4
+294,2020,Eden,2020-03-05,Delhi Capitals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders won by 7 wickets,0,Kolkata Knight Riders,0,7,P Kumar,Eden Gardens,Umpire_4,Umpire_14
+295,2020,Feroz,2020-04-20,Punjab Kings,Delhi Capitals,Delhi Capitals,bat,No Result,0,,0,0,,Eden Gardens,Umpire_16,Umpire_16
+296,2020,Chinnaswamy,2020-05-28,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Chennai Super Kings won by 6 wickets,0,Chennai Super Kings,0,6,V Kohli,MA Chidambaram Stadium,Umpire_14,Umpire_8
+297,2020,Wankhede,2020-03-21,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,No Result,0,,0,0,,Punjab Cricket Association Stadium,Umpire_16,Umpire_6
+298,2020,Chinnaswamy,2020-05-21,Chennai Super Kings,Delhi Capitals,Delhi Capitals,field,Chennai Super Kings won by 5 wickets,1,Chennai Super Kings,0,5,AB de Villiers,Feroz Shah Kotla,Umpire_8,Umpire_3
+299,2020,Punjab,2020-05-21,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders won by 6 wickets,0,Kolkata Knight Riders,0,6,SR Watson,MA Chidambaram Stadium,Umpire_13,Umpire_14
+300,2020,Rajiv,2020-05-18,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,bat,No Result,0,,0,0,,Punjab Cricket Association Stadium,Umpire_11,Umpire_12
+301,2020,Punjab,2020-03-04,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals won by 6 wickets,0,Delhi Capitals,0,6,KC Sangakkara,Wankhede Stadium,Umpire_11,Umpire_12
+302,2020,Feroz,2020-03-09,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,Sunrisers Hyderabad won by 64 runs,0,Sunrisers Hyderabad,64,0,CH Gayle,Chinnaswamy Stadium,Umpire_4,Umpire_13
+303,2020,MA,2020-04-15,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,field,Kolkata Knight Riders won by 1 wickets,0,Kolkata Knight Riders,0,1,MM Patel,Punjab Cricket Association Stadium,Umpire_1,Umpire_17
+304,2020,Eden,2020-05-19,Mumbai Indians,Sunrisers Hyderabad,Sunrisers Hyderabad,field,No Result,0,,0,0,,Eden Gardens,Umpire_4,Umpire_13
+305,2020,Chinnaswamy,2020-04-13,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_15,Umpire_5
+306,2020,Chinnaswamy,2020-03-07,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_5,Umpire_6
+307,2020,Punjab,2020-05-19,Rajasthan Royals,Punjab Kings,Rajasthan Royals,field,No Result,1,,0,0,,Rajiv Gandhi Stadium,Umpire_14,Umpire_1
+308,2020,Eden,2020-04-22,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Chennai Super Kings won by 26 runs,0,Chennai Super Kings,26,0,SS Tiwary,Eden Gardens,Umpire_2,Umpire_10
+309,2020,Chinnaswamy,2020-05-21,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,field,Delhi Capitals won by 79 runs,1,Delhi Capitals,79,0,P Chawla,Chinnaswamy Stadium,Umpire_17,Umpire_10
+310,2020,Sawai,2020-05-02,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_7,Umpire_20
+311,2020,Chinnaswamy,2020-05-07,Punjab Kings,Delhi Capitals,Punjab Kings,field,No Result,0,,0,0,,Punjab Cricket Association Stadium,Umpire_6,Umpire_3
+312,2020,Rajiv,2020-03-06,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore won by 5 wickets,0,Royal Challengers Bangalore,0,5,DJ Bravo,Wankhede Stadium,Umpire_11,Umpire_15
+313,2020,Wankhede,2020-05-20,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,No Result,0,,0,0,,Punjab Cricket Association Stadium,Umpire_19,Umpire_18
+314,2020,Feroz,2020-05-18,Rajasthan Royals,Mumbai Indians,Mumbai Indians,bat,Rajasthan Royals won by 65 runs,1,Rajasthan Royals,65,0,SV Samson,MA Chidambaram Stadium,Umpire_12,Umpire_8
+315,2020,Punjab,2020-05-27,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals won by 4 wickets,0,Rajasthan Royals,0,4,I Sharma,MA Chidambaram Stadium,Umpire_12,Umpire_15
+316,2020,Sawai,2020-04-26,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,bat,No Result,0,,0,0,,Feroz Shah Kotla,Umpire_9,Umpire_18
+317,2020,Chinnaswamy,2020-04-17,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,field,Mumbai Indians won by 38 runs,0,Mumbai Indians,38,0,P Kumar,MA Chidambaram Stadium,Umpire_6,Umpire_18
+318,2020,Chinnaswamy,2020-05-14,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_18,Umpire_14
+319,2020,MA,2020-03-06,Chennai Super Kings,Rajasthan Royals,Chennai Super Kings,bat,Rajasthan Royals won by 1 wickets,0,Rajasthan Royals,0,1,MS Dhoni,MA Chidambaram Stadium,Umpire_19,Umpire_8
+320,2020,Feroz,2020-04-11,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,field,No Result,0,,0,0,,Feroz Shah Kotla,Umpire_4,Umpire_18
+321,2020,MA,2020-04-17,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_10,Umpire_20
+322,2020,Chinnaswamy,2020-03-24,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore won by 61 runs,1,Royal Challengers Bangalore,61,0,SV Samson,Rajiv Gandhi Stadium,Umpire_5,Umpire_10
+323,2020,Feroz,2020-05-18,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,bat,Rajasthan Royals won by 74 runs,0,Rajasthan Royals,74,0,S Narine,Rajiv Gandhi Stadium,Umpire_7,Umpire_12
+324,2020,Chinnaswamy,2020-03-06,Kolkata Knight Riders,Punjab Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders won by 79 runs,0,Kolkata Knight Riders,79,0,HH Pandya,Punjab Cricket Association Stadium,Umpire_18,Umpire_3
+325,2020,Punjab,2020-04-12,Sunrisers Hyderabad,Rajasthan Royals,Sunrisers Hyderabad,field,Sunrisers Hyderabad won by 93 runs,0,Sunrisers Hyderabad,93,0,R Ashwin,Chinnaswamy Stadium,Umpire_4,Umpire_10
+326,2020,Rajiv,2020-05-19,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings won by 10 wickets,0,Punjab Kings,0,10,A Mishra,Sawai Mansingh Stadium,Umpire_11,Umpire_14
+327,2020,Eden,2020-05-24,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore won by 5 wickets,0,Royal Challengers Bangalore,0,5,SE Marsh,Punjab Cricket Association Stadium,Umpire_15,Umpire_15
+328,2020,MA,2020-03-21,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_5,Umpire_18
+329,2020,Feroz,2020-05-07,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders won by 75 runs,0,Kolkata Knight Riders,75,0,R Ashwin,Rajiv Gandhi Stadium,Umpire_18,Umpire_18
+330,2020,Rajiv,2020-03-15,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Rajasthan Royals won by 99 runs,0,Rajasthan Royals,99,0,R Ashwin,Feroz Shah Kotla,Umpire_12,Umpire_17
+331,2020,Eden,2020-04-06,Mumbai Indians,Rajasthan Royals,Mumbai Indians,bat,No Result,0,,0,0,,Eden Gardens,Umpire_16,Umpire_12
+332,2020,Wankhede,2020-05-07,Mumbai Indians,Chennai Super Kings,Chennai Super Kings,bat,Mumbai Indians won by 6 wickets,0,Mumbai Indians,0,6,JP Duminy,Feroz Shah Kotla,Umpire_16,Umpire_15
+333,2020,Rajiv,2020-05-09,Mumbai Indians,Punjab Kings,Punjab Kings,bat,No Result,0,,0,0,,Feroz Shah Kotla,Umpire_13,Umpire_12
+334,2020,Punjab,2020-04-20,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings won by 6 wickets,0,Chennai Super Kings,0,6,YK Pathan,Eden Gardens,Umpire_15,Umpire_6
+335,2020,MA,2020-05-08,Kolkata Knight Riders,Mumbai Indians,Mumbai Indians,bat,Kolkata Knight Riders won by 21 runs,1,Kolkata Knight Riders,21,0,SE Marsh,Sawai Mansingh Stadium,Umpire_4,Umpire_16
+336,2020,Feroz,2020-03-08,Punjab Kings,Kolkata Knight Riders,Punjab Kings,bat,No Result,0,,0,0,,Eden Gardens,Umpire_19,Umpire_19
+337,2020,Feroz,2020-05-19,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Royal Challengers Bangalore won by 34 runs,0,Royal Challengers Bangalore,34,0,KL Rahul,Rajiv Gandhi Stadium,Umpire_3,Umpire_7
+338,2020,Eden,2020-05-27,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings won by 53 runs,0,Punjab Kings,53,0,S Narine,Rajiv Gandhi Stadium,Umpire_6,Umpire_11
+339,2020,Wankhede,2020-03-17,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Sunrisers Hyderabad won by 3 wickets,1,Sunrisers Hyderabad,0,3,KD Karthik,Eden Gardens,Umpire_20,Umpire_4
+340,2020,Wankhede,2020-05-21,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Royal Challengers Bangalore won by 3 wickets,1,Royal Challengers Bangalore,0,3,S Narine,Feroz Shah Kotla,Umpire_12,Umpire_2
+341,2020,Rajiv,2020-04-25,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings won by 55 runs,0,Chennai Super Kings,55,0,CH Gayle,MA Chidambaram Stadium,Umpire_10,Umpire_20
+342,2020,Wankhede,2020-05-17,Delhi Capitals,Royal Challengers Bangalore,Delhi Capitals,bat,No Result,0,,0,0,,Wankhede Stadium,Umpire_13,Umpire_7
+343,2020,Rajiv,2020-05-14,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,bat,Rajasthan Royals won by 10 wickets,0,Rajasthan Royals,0,10,HH Pandya,Rajiv Gandhi Stadium,Umpire_13,Umpire_7
+344,2020,Sawai,2020-05-13,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Sunrisers Hyderabad won by 5 wickets,0,Sunrisers Hyderabad,0,5,M Vijay,MA Chidambaram Stadium,Umpire_8,Umpire_15
+345,2020,Wankhede,2020-03-27,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians won by 21 runs,0,Mumbai Indians,21,0,Q de Kock,Punjab Cricket Association Stadium,Umpire_20,Umpire_14
+346,2020,Feroz,2020-04-20,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians won by 78 runs,0,Mumbai Indians,78,0,SK Raina,Wankhede Stadium,Umpire_6,Umpire_16
+347,2020,Chinnaswamy,2020-05-06,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings won by 77 runs,0,Punjab Kings,77,0,B Kumar,Sawai Mansingh Stadium,Umpire_8,Umpire_1
+348,2021,Feroz,2021-04-19,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,No Result,0,,0,0,,Wankhede Stadium,Umpire_3,Umpire_3
+349,2021,Punjab,2021-04-19,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals won by 78 runs,0,Rajasthan Royals,78,0,SS Iyer,Rajiv Gandhi Stadium,Umpire_6,Umpire_14
+350,2021,Rajiv,2021-05-15,Chennai Super Kings,Sunrisers Hyderabad,Chennai Super Kings,field,Sunrisers Hyderabad won by 66 runs,1,Sunrisers Hyderabad,66,0,HH Pandya,Punjab Cricket Association Stadium,Umpire_8,Umpire_11
+351,2021,Feroz,2021-05-26,Punjab Kings,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals won by 34 runs,0,Rajasthan Royals,34,0,DA Warner,Chinnaswamy Stadium,Umpire_11,Umpire_14
+352,2021,Sawai,2021-03-18,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Rajasthan Royals won by 2 wickets,0,Rajasthan Royals,0,2,DA Miller,Punjab Cricket Association Stadium,Umpire_11,Umpire_12
+353,2021,Chinnaswamy,2021-04-24,Kolkata Knight Riders,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_8,Umpire_9
+354,2021,Sawai,2021-03-25,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,No Result,0,,0,0,,MA Chidambaram Stadium,Umpire_3,Umpire_16
+355,2021,Rajiv,2021-04-06,Mumbai Indians,Delhi Capitals,Mumbai Indians,field,Delhi Capitals won by 8 wickets,0,Delhi Capitals,0,8,Harbhajan Singh,Feroz Shah Kotla,Umpire_8,Umpire_19
+356,2021,Wankhede,2021-05-12,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,No Result,1,,0,0,,Eden Gardens,Umpire_15,Umpire_4
+357,2021,Chinnaswamy,2021-04-19,Punjab Kings,Royal Challengers Bangalore,Punjab Kings,bat,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_12,Umpire_20
+358,2021,Sawai,2021-03-16,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,Chennai Super Kings won by 10 wickets,1,Chennai Super Kings,0,10,V Sehwag,Chinnaswamy Stadium,Umpire_14,Umpire_12
+359,2021,Chinnaswamy,2021-03-24,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals won by 74 runs,0,Delhi Capitals,74,0,CH Gayle,Chinnaswamy Stadium,Umpire_18,Umpire_14
+360,2021,Punjab,2021-03-28,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Chennai Super Kings won by 23 runs,0,Chennai Super Kings,23,0,JM Bairstow,Punjab Cricket Association Stadium,Umpire_10,Umpire_9
+361,2021,MA,2021-04-24,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,bat,Mumbai Indians won by 33 runs,0,Mumbai Indians,33,0,JJ Bumrah,Rajiv Gandhi Stadium,Umpire_12,Umpire_12
+362,2021,Eden,2021-04-12,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Sunrisers Hyderabad won by 10 wickets,0,Sunrisers Hyderabad,0,10,SS Iyer,Punjab Cricket Association Stadium,Umpire_15,Umpire_3
+363,2021,Eden,2021-03-21,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,No Result,0,,0,0,,Feroz Shah Kotla,Umpire_20,Umpire_19
+364,2021,Sawai,2021-05-10,Delhi Capitals,Punjab Kings,Delhi Capitals,bat,Delhi Capitals won by 4 wickets,0,Delhi Capitals,0,4,G Gambhir,Feroz Shah Kotla,Umpire_9,Umpire_15
+365,2021,Chinnaswamy,2021-05-09,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals won by 3 runs,0,Rajasthan Royals,3,0,CH Gayle,Chinnaswamy Stadium,Umpire_6,Umpire_13
+366,2021,Wankhede,2021-03-25,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,No Result,1,,0,0,,MA Chidambaram Stadium,Umpire_4,Umpire_9
+367,2021,Punjab,2021-05-05,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,field,Royal Challengers Bangalore won by 95 runs,0,Royal Challengers Bangalore,95,0,AM Nayar,Eden Gardens,Umpire_1,Umpire_2
+368,2021,Eden,2021-05-18,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Delhi Capitals won by 9 wickets,0,Delhi Capitals,0,9,JJ Roy,Punjab Cricket Association Stadium,Umpire_19,Umpire_14
+369,2021,Feroz,2021-04-05,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad won by 5 wickets,0,Sunrisers Hyderabad,0,5,SE Marsh,Wankhede Stadium,Umpire_1,Umpire_17
+370,2021,Wankhede,2021-05-16,Royal Challengers Bangalore,Punjab Kings,Punjab Kings,field,No Result,1,,0,0,,Rajiv Gandhi Stadium,Umpire_1,Umpire_14
+371,2021,Sawai,2021-03-14,Sunrisers Hyderabad,Punjab Kings,Sunrisers Hyderabad,bat,No Result,1,,0,0,,Feroz Shah Kotla,Umpire_8,Umpire_6
+372,2021,Chinnaswamy,2021-05-25,Delhi Capitals,Punjab Kings,Punjab Kings,bat,Punjab Kings won by 55 runs,0,Punjab Kings,55,0,MM Patel,Rajiv Gandhi Stadium,Umpire_18,Umpire_9
+373,2021,Punjab,2021-05-15,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals won by 2 wickets,0,Delhi Capitals,0,2,MM Patel,Punjab Cricket Association Stadium,Umpire_7,Umpire_11
+374,2021,Eden,2021-05-15,Mumbai Indians,Chennai Super Kings,Mumbai Indians,bat,Mumbai Indians won by 37 runs,0,Mumbai Indians,37,0,SS Tiwary,Chinnaswamy Stadium,Umpire_3,Umpire_5
+375,2021,Punjab,2021-05-26,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Kolkata Knight Riders won by 8 wickets,0,Kolkata Knight Riders,0,8,SE Marsh,Sawai Mansingh Stadium,Umpire_3,Umpire_5
+376,2021,Punjab,2021-03-07,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,No Result,0,,0,0,,Feroz Shah Kotla,Umpire_1,Umpire_4
+377,2021,Wankhede,2021-03-15,Kolkata Knight Riders,Punjab Kings,Punjab Kings,bat,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_16,Umpire_13
+378,2021,MA,2021-04-16,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,bat,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_12,Umpire_2
+379,2021,MA,2021-04-26,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,field,Mumbai Indians won by 22 runs,0,Mumbai Indians,22,0,SS Tiwary,Wankhede Stadium,Umpire_2,Umpire_19
+380,2021,MA,2021-05-20,Punjab Kings,Rajasthan Royals,Punjab Kings,field,Punjab Kings won by 21 runs,0,Punjab Kings,21,0,SL Malinga,Wankhede Stadium,Umpire_2,Umpire_12
+381,2021,Sawai,2021-04-24,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,bat,Rajasthan Royals won by 41 runs,0,Rajasthan Royals,41,0,DJ Bravo,Wankhede Stadium,Umpire_13,Umpire_12
+382,2021,Punjab,2021-05-10,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,No Result,1,,0,0,,Chinnaswamy Stadium,Umpire_19,Umpire_6
+383,2021,Eden,2021-03-17,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,No Result,0,,0,0,,Punjab Cricket Association Stadium,Umpire_10,Umpire_9
+384,2021,Eden,2021-03-20,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_11,Umpire_3
+385,2021,Rajiv,2021-04-14,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,No Result,0,,0,0,,MA Chidambaram Stadium,Umpire_4,Umpire_17
+386,2021,Chinnaswamy,2021-03-02,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,bat,Chennai Super Kings won by 14 runs,1,Chennai Super Kings,14,0,SL Malinga,Punjab Cricket Association Stadium,Umpire_17,Umpire_20
+387,2021,MA,2021-03-07,Sunrisers Hyderabad,Mumbai Indians,Mumbai Indians,bat,No Result,1,,0,0,,MA Chidambaram Stadium,Umpire_15,Umpire_2
+388,2021,Wankhede,2021-05-09,Rajasthan Royals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,No Result,0,,0,0,,MA Chidambaram Stadium,Umpire_10,Umpire_3
+389,2021,Chinnaswamy,2021-05-13,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_17,Umpire_8
+390,2021,Sawai,2021-05-15,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,No Result,1,,0,0,,MA Chidambaram Stadium,Umpire_6,Umpire_6
+391,2021,Punjab,2021-04-11,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_14,Umpire_14
+392,2021,Punjab,2021-04-01,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,bat,Sunrisers Hyderabad won by 6 wickets,0,Sunrisers Hyderabad,0,6,JJ Roy,Rajiv Gandhi Stadium,Umpire_20,Umpire_1
+393,2021,Rajiv,2021-05-17,Royal Challengers Bangalore,Punjab Kings,Royal Challengers Bangalore,field,Royal Challengers Bangalore won by 41 runs,0,Royal Challengers Bangalore,41,0,RG Sharma,MA Chidambaram Stadium,Umpire_2,Umpire_15
+394,2021,Rajiv,2021-03-19,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,field,Chennai Super Kings won by 30 runs,1,Chennai Super Kings,30,0,HH Pandya,Chinnaswamy Stadium,Umpire_3,Umpire_11
+395,2021,Rajiv,2021-03-24,Punjab Kings,Chennai Super Kings,Chennai Super Kings,bat,No Result,1,,0,0,,MA Chidambaram Stadium,Umpire_2,Umpire_11
+396,2021,Wankhede,2021-05-25,Rajasthan Royals,Delhi Capitals,Delhi Capitals,field,Rajasthan Royals won by 96 runs,1,Rajasthan Royals,96,0,P Kumar,Wankhede Stadium,Umpire_10,Umpire_17
+397,2021,Chinnaswamy,2021-03-02,Mumbai Indians,Royal Challengers Bangalore,Mumbai Indians,field,No Result,1,,0,0,,Punjab Cricket Association Stadium,Umpire_20,Umpire_19
+398,2021,MA,2021-04-19,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings won by 17 runs,0,Punjab Kings,17,0,V Sehwag,Feroz Shah Kotla,Umpire_9,Umpire_3
+399,2021,Punjab,2021-04-21,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,Delhi Capitals won by 9 wickets,0,Delhi Capitals,0,9,SS Iyer,Chinnaswamy Stadium,Umpire_8,Umpire_3
+400,2021,MA,2021-03-22,Sunrisers Hyderabad,Delhi Capitals,Delhi Capitals,field,No Result,1,,0,0,,Feroz Shah Kotla,Umpire_12,Umpire_12
+401,2021,Punjab,2021-05-05,Kolkata Knight Riders,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore won by 45 runs,1,Royal Challengers Bangalore,45,0,AD Russell,Wankhede Stadium,Umpire_8,Umpire_7
+402,2021,Wankhede,2021-03-20,Rajasthan Royals,Chennai Super Kings,Rajasthan Royals,bat,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_1,Umpire_11
+403,2021,Chinnaswamy,2021-03-18,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Chennai Super Kings won by 4 wickets,0,Chennai Super Kings,0,4,MM Sharma,Punjab Cricket Association Stadium,Umpire_20,Umpire_5
+404,2021,Rajiv,2021-03-15,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians won by 37 runs,0,Mumbai Indians,37,0,SS Iyer,MA Chidambaram Stadium,Umpire_13,Umpire_9
+405,2022,MA,2022-04-16,Chennai Super Kings,Mumbai Indians,Mumbai Indians,field,Chennai Super Kings won by 9 wickets,0,Chennai Super Kings,0,9,KC Sangakkara,Eden Gardens,Umpire_7,Umpire_17
+406,2022,Feroz,2022-05-06,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,bat,Punjab Kings won by 6 wickets,0,Punjab Kings,0,6,SL Malinga,Sawai Mansingh Stadium,Umpire_12,Umpire_12
+407,2022,Rajiv,2022-04-27,Sunrisers Hyderabad,Chennai Super Kings,Chennai Super Kings,bat,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_8,Umpire_5
+408,2022,Feroz,2022-05-22,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,bat,No Result,0,,0,0,,Feroz Shah Kotla,Umpire_8,Umpire_19
+409,2022,Eden,2022-05-18,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders won by 27 runs,0,Kolkata Knight Riders,27,0,P Kumar,Eden Gardens,Umpire_10,Umpire_17
+410,2022,MA,2022-03-11,Royal Challengers Bangalore,Kolkata Knight Riders,Royal Challengers Bangalore,bat,Kolkata Knight Riders won by 72 runs,0,Kolkata Knight Riders,72,0,K Rabada,Wankhede Stadium,Umpire_11,Umpire_14
+411,2022,Eden,2022-03-25,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals won by 14 runs,0,Delhi Capitals,14,0,CH Gayle,Chinnaswamy Stadium,Umpire_20,Umpire_8
+412,2022,Punjab,2022-05-21,Kolkata Knight Riders,Rajasthan Royals,Kolkata Knight Riders,field,Kolkata Knight Riders won by 3 wickets,0,Kolkata Knight Riders,0,3,B Kumar,Eden Gardens,Umpire_13,Umpire_16
+413,2022,Wankhede,2022-04-14,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,Punjab Kings won by 53 runs,0,Punjab Kings,53,0,I Sharma,Chinnaswamy Stadium,Umpire_7,Umpire_3
+414,2022,Wankhede,2022-05-24,Royal Challengers Bangalore,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders won by 55 runs,1,Kolkata Knight Riders,55,0,DA Miller,Sawai Mansingh Stadium,Umpire_13,Umpire_20
+415,2022,Feroz,2022-05-02,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Sunrisers Hyderabad won by 32 runs,1,Sunrisers Hyderabad,32,0,Mohammed Shami,Wankhede Stadium,Umpire_7,Umpire_10
+416,2022,Wankhede,2022-05-17,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders won by 55 runs,0,Kolkata Knight Riders,55,0,AM Nayar,Punjab Cricket Association Stadium,Umpire_15,Umpire_3
+417,2022,Eden,2022-04-19,Chennai Super Kings,Punjab Kings,Chennai Super Kings,field,Punjab Kings won by 8 wickets,0,Punjab Kings,0,8,RG Sharma,Punjab Cricket Association Stadium,Umpire_3,Umpire_9
+418,2022,Sawai,2022-03-17,Rajasthan Royals,Punjab Kings,Rajasthan Royals,bat,Rajasthan Royals won by 91 runs,1,Rajasthan Royals,91,0,JJ Roy,Eden Gardens,Umpire_13,Umpire_18
+419,2022,Eden,2022-03-28,Delhi Capitals,Mumbai Indians,Delhi Capitals,field,No Result,0,,0,0,,Eden Gardens,Umpire_2,Umpire_14
+420,2022,Eden,2022-03-05,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,No Result,0,,0,0,,Wankhede Stadium,Umpire_20,Umpire_9
+421,2022,Wankhede,2022-05-16,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,field,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_19,Umpire_16
+422,2022,Wankhede,2022-03-18,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_2,Umpire_6
+423,2022,Rajiv,2022-04-03,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore won by 86 runs,0,Royal Challengers Bangalore,86,0,Harbhajan Singh,MA Chidambaram Stadium,Umpire_14,Umpire_6
+424,2022,Rajiv,2022-04-12,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals won by 1 wickets,1,Rajasthan Royals,0,1,MS Dhoni,MA Chidambaram Stadium,Umpire_14,Umpire_18
+425,2022,Feroz,2022-05-07,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings won by 6 wickets,0,Chennai Super Kings,0,6,Mohammed Shami,Wankhede Stadium,Umpire_4,Umpire_19
+426,2022,Sawai,2022-04-17,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,field,No Result,0,,0,0,,Eden Gardens,Umpire_20,Umpire_19
+427,2022,Chinnaswamy,2022-03-04,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Punjab Kings won by 91 runs,0,Punjab Kings,91,0,AM Nayar,Punjab Cricket Association Stadium,Umpire_4,Umpire_7
+428,2022,Chinnaswamy,2022-05-10,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,field,Kolkata Knight Riders won by 2 runs,0,Kolkata Knight Riders,2,0,MM Patel,MA Chidambaram Stadium,Umpire_10,Umpire_10
+429,2022,Sawai,2022-04-13,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,No Result,0,,0,0,,Eden Gardens,Umpire_7,Umpire_11
+430,2022,Punjab,2022-05-11,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Rajasthan Royals won by 62 runs,1,Rajasthan Royals,62,0,RR Pant,Feroz Shah Kotla,Umpire_2,Umpire_17
+431,2022,Eden,2022-04-27,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,bat,Sunrisers Hyderabad won by 6 wickets,0,Sunrisers Hyderabad,0,6,DA Warner,Sawai Mansingh Stadium,Umpire_13,Umpire_18
+432,2022,MA,2022-04-23,Royal Challengers Bangalore,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,No Result,0,,0,0,,Wankhede Stadium,Umpire_9,Umpire_14
+433,2022,Rajiv,2022-03-04,Chennai Super Kings,Kolkata Knight Riders,Chennai Super Kings,field,Kolkata Knight Riders won by 4 wickets,0,Kolkata Knight Riders,0,4,Mohammed Shami,Wankhede Stadium,Umpire_7,Umpire_3
+434,2022,Eden,2022-03-11,Punjab Kings,Sunrisers Hyderabad,Punjab Kings,field,No Result,1,,0,0,,Rajiv Gandhi Stadium,Umpire_11,Umpire_5
+435,2022,Wankhede,2022-04-13,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,bat,No Result,0,,0,0,,Wankhede Stadium,Umpire_10,Umpire_2
+436,2022,Rajiv,2022-05-07,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Chennai Super Kings won by 1 wickets,0,Chennai Super Kings,0,1,Harbhajan Singh,Chinnaswamy Stadium,Umpire_7,Umpire_10
+437,2022,MA,2022-04-05,Sunrisers Hyderabad,Punjab Kings,Punjab Kings,field,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_4,Umpire_1
+438,2022,Chinnaswamy,2022-03-03,Chennai Super Kings,Punjab Kings,Punjab Kings,field,Punjab Kings won by 91 runs,0,Punjab Kings,91,0,AM Nayar,Sawai Mansingh Stadium,Umpire_18,Umpire_15
+439,2022,Wankhede,2022-03-13,Mumbai Indians,Chennai Super Kings,Mumbai Indians,field,No Result,0,,0,0,,MA Chidambaram Stadium,Umpire_14,Umpire_13
+440,2022,MA,2022-04-19,Royal Challengers Bangalore,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals won by 4 wickets,0,Rajasthan Royals,0,4,KC Sangakkara,MA Chidambaram Stadium,Umpire_15,Umpire_4
+441,2022,Rajiv,2022-04-13,Punjab Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Punjab Kings won by 19 runs,0,Punjab Kings,19,0,AD Russell,Sawai Mansingh Stadium,Umpire_11,Umpire_15
+442,2022,Eden,2022-04-25,Punjab Kings,Mumbai Indians,Punjab Kings,field,Punjab Kings won by 8 wickets,0,Punjab Kings,0,8,N Pooran,Eden Gardens,Umpire_17,Umpire_4
+443,2022,MA,2022-04-18,Delhi Capitals,Punjab Kings,Delhi Capitals,field,No Result,1,,0,0,,Feroz Shah Kotla,Umpire_19,Umpire_14
+444,2022,Chinnaswamy,2022-05-19,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Sunrisers Hyderabad won by 2 wickets,1,Sunrisers Hyderabad,0,2,V Sehwag,Feroz Shah Kotla,Umpire_19,Umpire_11
+445,2022,MA,2022-04-06,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,field,Kolkata Knight Riders won by 6 wickets,0,Kolkata Knight Riders,0,6,DJ Bravo,Feroz Shah Kotla,Umpire_3,Umpire_20
+446,2022,Eden,2022-05-25,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,field,Rajasthan Royals won by 12 runs,0,Rajasthan Royals,12,0,AT Rayudu,Eden Gardens,Umpire_5,Umpire_15
+447,2022,Rajiv,2022-04-23,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,Sunrisers Hyderabad won by 5 wickets,0,Sunrisers Hyderabad,0,5,Harbhajan Singh,MA Chidambaram Stadium,Umpire_19,Umpire_1
+448,2022,Wankhede,2022-05-18,Delhi Capitals,Punjab Kings,Delhi Capitals,field,Delhi Capitals won by 9 wickets,0,Delhi Capitals,0,9,AB de Villiers,MA Chidambaram Stadium,Umpire_10,Umpire_1
+449,2022,Feroz,2022-04-13,Kolkata Knight Riders,Punjab Kings,Punjab Kings,field,No Result,1,,0,0,,Chinnaswamy Stadium,Umpire_6,Umpire_16
+450,2022,Eden,2022-03-01,Royal Challengers Bangalore,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings won by 37 runs,0,Chennai Super Kings,37,0,A Mishra,Wankhede Stadium,Umpire_5,Umpire_16
+451,2022,Feroz,2022-04-26,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,No Result,1,,0,0,,Eden Gardens,Umpire_15,Umpire_17
+452,2022,Wankhede,2022-05-16,Delhi Capitals,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad won by 24 runs,0,Sunrisers Hyderabad,24,0,JC Buttler,Rajiv Gandhi Stadium,Umpire_14,Umpire_18
+453,2022,Sawai,2022-03-19,Rajasthan Royals,Mumbai Indians,Rajasthan Royals,field,No Result,1,,0,0,,MA Chidambaram Stadium,Umpire_5,Umpire_17
+454,2022,Rajiv,2022-05-02,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,Sunrisers Hyderabad won by 2 wickets,0,Sunrisers Hyderabad,0,2,P Chawla,Wankhede Stadium,Umpire_16,Umpire_15
+455,2022,Wankhede,2022-05-20,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Sunrisers Hyderabad won by 5 wickets,0,Sunrisers Hyderabad,0,5,SV Samson,Rajiv Gandhi Stadium,Umpire_2,Umpire_16
+456,2022,Wankhede,2022-04-16,Royal Challengers Bangalore,Sunrisers Hyderabad,Royal Challengers Bangalore,field,No Result,0,,0,0,,Eden Gardens,Umpire_17,Umpire_3
+457,2022,MA,2022-05-06,Sunrisers Hyderabad,Royal Challengers Bangalore,Sunrisers Hyderabad,field,Royal Challengers Bangalore won by 1 wickets,0,Royal Challengers Bangalore,0,1,MM Sharma,Punjab Cricket Association Stadium,Umpire_12,Umpire_6
+458,2022,Eden,2022-05-27,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,field,Sunrisers Hyderabad won by 44 runs,0,Sunrisers Hyderabad,44,0,MS Dhoni,Punjab Cricket Association Stadium,Umpire_14,Umpire_13
+459,2022,Rajiv,2022-03-02,Kolkata Knight Riders,Rajasthan Royals,Rajasthan Royals,bat,Kolkata Knight Riders won by 1 wickets,0,Kolkata Knight Riders,0,1,P Kumar,Punjab Cricket Association Stadium,Umpire_13,Umpire_16
+460,2022,Feroz,2022-04-09,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,No Result,0,,0,0,,Feroz Shah Kotla,Umpire_1,Umpire_10
+461,2022,Rajiv,2022-04-09,Punjab Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Punjab Kings won by 7 wickets,0,Punjab Kings,0,7,AD Russell,MA Chidambaram Stadium,Umpire_9,Umpire_19
+462,2022,Sawai,2022-05-23,Delhi Capitals,Kolkata Knight Riders,Delhi Capitals,bat,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_18,Umpire_1
+463,2023,MA,2023-05-15,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_10,Umpire_9
+464,2023,MA,2023-05-04,Kolkata Knight Riders,Mumbai Indians,Kolkata Knight Riders,bat,Kolkata Knight Riders won by 77 runs,0,Kolkata Knight Riders,77,0,MM Patel,Eden Gardens,Umpire_13,Umpire_19
+465,2023,Punjab,2023-04-25,Royal Challengers Bangalore,Mumbai Indians,Royal Challengers Bangalore,field,Mumbai Indians won by 2 wickets,1,Mumbai Indians,0,2,MM Patel,Sawai Mansingh Stadium,Umpire_9,Umpire_6
+466,2023,Rajiv,2023-03-15,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,Royal Challengers Bangalore won by 1 wickets,0,Royal Challengers Bangalore,0,1,HH Pandya,Punjab Cricket Association Stadium,Umpire_7,Umpire_20
+467,2023,MA,2023-04-23,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Delhi Capitals won by 4 wickets,0,Delhi Capitals,0,4,AD Russell,MA Chidambaram Stadium,Umpire_2,Umpire_3
+468,2023,Wankhede,2023-03-22,Chennai Super Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,field,Chennai Super Kings won by 3 wickets,1,Chennai Super Kings,0,3,P Kumar,Rajiv Gandhi Stadium,Umpire_5,Umpire_11
+469,2023,MA,2023-05-08,Delhi Capitals,Sunrisers Hyderabad,Delhi Capitals,field,Sunrisers Hyderabad won by 7 wickets,0,Sunrisers Hyderabad,0,7,RA Jadeja,Feroz Shah Kotla,Umpire_16,Umpire_4
+470,2023,Sawai,2023-03-27,Rajasthan Royals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Rajasthan Royals won by 47 runs,1,Rajasthan Royals,47,0,K Rabada,Rajiv Gandhi Stadium,Umpire_7,Umpire_6
+471,2023,Feroz,2023-03-21,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,No Result,0,,0,0,,Punjab Cricket Association Stadium,Umpire_3,Umpire_15
+472,2023,MA,2023-05-21,Kolkata Knight Riders,Chennai Super Kings,Kolkata Knight Riders,bat,Kolkata Knight Riders won by 63 runs,0,Kolkata Knight Riders,63,0,Q de Kock,Punjab Cricket Association Stadium,Umpire_18,Umpire_15
+473,2023,Chinnaswamy,2023-05-22,Mumbai Indians,Punjab Kings,Punjab Kings,bat,Punjab Kings won by 52 runs,1,Punjab Kings,52,0,SR Watson,Eden Gardens,Umpire_19,Umpire_8
+474,2023,Wankhede,2023-04-20,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_5,Umpire_1
+475,2023,MA,2023-03-04,Royal Challengers Bangalore,Rajasthan Royals,Royal Challengers Bangalore,field,Royal Challengers Bangalore won by 10 wickets,1,Royal Challengers Bangalore,0,10,SV Samson,Chinnaswamy Stadium,Umpire_3,Umpire_7
+476,2023,Wankhede,2023-05-06,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Delhi Capitals won by 42 runs,0,Delhi Capitals,42,0,AT Rayudu,MA Chidambaram Stadium,Umpire_4,Umpire_9
+477,2023,Sawai,2023-05-06,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,No Result,1,,0,0,,Chinnaswamy Stadium,Umpire_19,Umpire_2
+478,2023,Wankhede,2023-03-03,Royal Challengers Bangalore,Mumbai Indians,Mumbai Indians,bat,Royal Challengers Bangalore won by 2 wickets,0,Royal Challengers Bangalore,0,2,V Kohli,Feroz Shah Kotla,Umpire_16,Umpire_5
+479,2023,Wankhede,2023-05-06,Kolkata Knight Riders,Chennai Super Kings,Chennai Super Kings,field,Chennai Super Kings won by 23 runs,1,Chennai Super Kings,23,0,AD Russell,MA Chidambaram Stadium,Umpire_10,Umpire_12
+480,2023,Chinnaswamy,2023-04-25,Delhi Capitals,Mumbai Indians,Delhi Capitals,bat,Delhi Capitals won by 80 runs,0,Delhi Capitals,80,0,SE Marsh,Rajiv Gandhi Stadium,Umpire_2,Umpire_7
+481,2023,Wankhede,2023-03-21,Chennai Super Kings,Delhi Capitals,Chennai Super Kings,field,Delhi Capitals won by 21 runs,0,Delhi Capitals,21,0,A Mishra,Rajiv Gandhi Stadium,Umpire_7,Umpire_14
+482,2023,Eden,2023-03-16,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Sunrisers Hyderabad won by 69 runs,0,Sunrisers Hyderabad,69,0,KL Rahul,MA Chidambaram Stadium,Umpire_8,Umpire_15
+483,2023,MA,2023-03-24,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals won by 42 runs,1,Rajasthan Royals,42,0,JP Duminy,Chinnaswamy Stadium,Umpire_13,Umpire_8
+484,2023,Punjab,2023-03-13,Chennai Super Kings,Kolkata Knight Riders,Kolkata Knight Riders,bat,Kolkata Knight Riders won by 28 runs,0,Kolkata Knight Riders,28,0,AD Russell,Eden Gardens,Umpire_15,Umpire_7
+485,2023,Wankhede,2023-04-05,Rajasthan Royals,Royal Challengers Bangalore,Rajasthan Royals,field,Rajasthan Royals won by 89 runs,0,Rajasthan Royals,89,0,Harbhajan Singh,Punjab Cricket Association Stadium,Umpire_15,Umpire_14
+486,2023,Eden,2023-05-18,Royal Challengers Bangalore,Delhi Capitals,Delhi Capitals,bat,Delhi Capitals won by 82 runs,0,Delhi Capitals,82,0,AD Russell,MA Chidambaram Stadium,Umpire_14,Umpire_17
+487,2023,Feroz,2023-05-28,Punjab Kings,Delhi Capitals,Punjab Kings,field,Delhi Capitals won by 1 wickets,0,Delhi Capitals,0,1,RA Jadeja,Chinnaswamy Stadium,Umpire_11,Umpire_14
+488,2023,Wankhede,2023-04-17,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,bat,Sunrisers Hyderabad won by 6 runs,1,Sunrisers Hyderabad,6,0,JJ Bumrah,Punjab Cricket Association Stadium,Umpire_4,Umpire_15
+489,2023,Feroz,2023-03-05,Punjab Kings,Chennai Super Kings,Punjab Kings,bat,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_8,Umpire_3
+490,2023,Punjab,2023-05-24,Mumbai Indians,Kolkata Knight Riders,Kolkata Knight Riders,bat,No Result,0,,0,0,,Punjab Cricket Association Stadium,Umpire_15,Umpire_5
+491,2023,Wankhede,2023-05-03,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,field,No Result,1,,0,0,,Sawai Mansingh Stadium,Umpire_17,Umpire_2
+492,2023,MA,2023-05-11,Sunrisers Hyderabad,Kolkata Knight Riders,Kolkata Knight Riders,bat,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_2,Umpire_4
+493,2023,MA,2023-05-23,Delhi Capitals,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore won by 3 wickets,0,Royal Challengers Bangalore,0,3,P Kumar,Eden Gardens,Umpire_11,Umpire_8
+494,2023,Chinnaswamy,2023-04-12,Chennai Super Kings,Rajasthan Royals,Rajasthan Royals,bat,No Result,0,,0,0,,Feroz Shah Kotla,Umpire_9,Umpire_2
+495,2023,Rajiv,2023-04-20,Chennai Super Kings,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Royal Challengers Bangalore won by 61 runs,0,Royal Challengers Bangalore,61,0,KC Sangakkara,MA Chidambaram Stadium,Umpire_7,Umpire_15
+496,2023,Rajiv,2023-03-23,Chennai Super Kings,Mumbai Indians,Mumbai Indians,bat,Mumbai Indians won by 14 runs,0,Mumbai Indians,14,0,SV Samson,Punjab Cricket Association Stadium,Umpire_5,Umpire_7
+497,2023,Wankhede,2023-04-07,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Royal Challengers Bangalore won by 7 wickets,0,Royal Challengers Bangalore,0,7,JJ Roy,Wankhede Stadium,Umpire_8,Umpire_17
+498,2023,Eden,2023-04-06,Rajasthan Royals,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders won by 8 wickets,0,Kolkata Knight Riders,0,8,M Vijay,Chinnaswamy Stadium,Umpire_16,Umpire_12
+499,2023,Eden,2023-05-18,Sunrisers Hyderabad,Delhi Capitals,Sunrisers Hyderabad,bat,Delhi Capitals won by 8 wickets,0,Delhi Capitals,0,8,SV Samson,Eden Gardens,Umpire_6,Umpire_5
+500,2023,Sawai,2023-03-07,Royal Challengers Bangalore,Chennai Super Kings,Royal Challengers Bangalore,bat,Chennai Super Kings won by 57 runs,0,Chennai Super Kings,57,0,HH Pandya,Sawai Mansingh Stadium,Umpire_12,Umpire_5
+501,2023,Eden,2023-04-11,Rajasthan Royals,Kolkata Knight Riders,Rajasthan Royals,field,Rajasthan Royals won by 52 runs,0,Rajasthan Royals,52,0,SL Malinga,Wankhede Stadium,Umpire_18,Umpire_17
+502,2023,Punjab,2023-04-23,Rajasthan Royals,Punjab Kings,Punjab Kings,field,Punjab Kings won by 73 runs,0,Punjab Kings,73,0,RA Jadeja,Punjab Cricket Association Stadium,Umpire_2,Umpire_5
+503,2023,Chinnaswamy,2023-04-12,Chennai Super Kings,Royal Challengers Bangalore,Chennai Super Kings,field,No Result,0,,0,0,,Sawai Mansingh Stadium,Umpire_2,Umpire_20
+504,2023,Punjab,2023-05-22,Kolkata Knight Riders,Sunrisers Hyderabad,Kolkata Knight Riders,field,Kolkata Knight Riders won by 11 runs,0,Kolkata Knight Riders,11,0,K Rabada,Feroz Shah Kotla,Umpire_7,Umpire_16
+505,2023,Sawai,2023-04-12,Rajasthan Royals,Sunrisers Hyderabad,Rajasthan Royals,field,Sunrisers Hyderabad won by 92 runs,0,Sunrisers Hyderabad,92,0,JC Buttler,Rajiv Gandhi Stadium,Umpire_12,Umpire_12
+506,2023,Punjab,2023-05-14,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,bat,No Result,1,,0,0,,Rajiv Gandhi Stadium,Umpire_6,Umpire_14
+507,2023,Sawai,2023-03-19,Delhi Capitals,Chennai Super Kings,Delhi Capitals,bat,Delhi Capitals won by 8 wickets,1,Delhi Capitals,0,8,Mohammed Shami,MA Chidambaram Stadium,Umpire_1,Umpire_14
+508,2023,Eden,2023-03-06,Sunrisers Hyderabad,Kolkata Knight Riders,Sunrisers Hyderabad,field,No Result,1,,0,0,,Rajiv Gandhi Stadium,Umpire_18,Umpire_16
+509,2023,Wankhede,2023-03-09,Mumbai Indians,Delhi Capitals,Delhi Capitals,field,Delhi Capitals won by 4 wickets,0,Delhi Capitals,0,4,RG Sharma,Punjab Cricket Association Stadium,Umpire_4,Umpire_10
+510,2023,Punjab,2023-03-20,Delhi Capitals,Chennai Super Kings,Chennai Super Kings,bat,Delhi Capitals won by 98 runs,0,Delhi Capitals,98,0,SS Tiwary,Punjab Cricket Association Stadium,Umpire_19,Umpire_14
+511,2023,Wankhede,2023-03-11,Sunrisers Hyderabad,Rajasthan Royals,Rajasthan Royals,bat,Rajasthan Royals won by 34 runs,1,Rajasthan Royals,34,0,SV Samson,Eden Gardens,Umpire_12,Umpire_6
+512,2023,Sawai,2023-03-10,Mumbai Indians,Royal Challengers Bangalore,Royal Challengers Bangalore,field,No Result,0,,0,0,,MA Chidambaram Stadium,Umpire_17,Umpire_7
+513,2023,Sawai,2023-04-27,Royal Challengers Bangalore,Delhi Capitals,Royal Challengers Bangalore,bat,No Result,0,,0,0,,Rajiv Gandhi Stadium,Umpire_12,Umpire_4
+514,2023,Punjab,2023-04-11,Rajasthan Royals,Delhi Capitals,Rajasthan Royals,bat,Rajasthan Royals won by 6 wickets,0,Rajasthan Royals,0,6,P Ojha,MA Chidambaram Stadium,Umpire_7,Umpire_5
+515,2023,Eden,2023-03-16,Kolkata Knight Riders,Delhi Capitals,Kolkata Knight Riders,bat,Delhi Capitals won by 2 wickets,0,Delhi Capitals,0,2,SR Watson,Rajiv Gandhi Stadium,Umpire_12,Umpire_5
+516,2023,Rajiv,2023-03-24,Punjab Kings,Sunrisers Hyderabad,Sunrisers Hyderabad,bat,No Result,0,,0,0,,Chinnaswamy Stadium,Umpire_5,Umpire_5
+517,2023,MA,2023-03-01,Kolkata Knight Riders,Royal Challengers Bangalore,Kolkata Knight Riders,bat,Kolkata Knight Riders won by 55 runs,1,Kolkata Knight Riders,55,0,YS Chahal,Feroz Shah Kotla,Umpire_2,Umpire_7
+518,2023,Rajiv,2023-05-01,Chennai Super Kings,Mumbai Indians,Chennai Super Kings,field,Chennai Super Kings won by 1 wickets,0,Chennai Super Kings,0,1,DA Warner,MA Chidambaram Stadium,Umpire_20,Umpire_7
